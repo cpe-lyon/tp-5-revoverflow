@@ -51,9 +51,9 @@ $ sudo mount -a
 
 ```bash
 $ sudo apt install virtualbox-guest-additions-iso
-$ sudo mkdir /media/usb
-$ sudo mount /dev/sdc1 /media/usb
 ```
+
+Le dossier partagé crée via virtualbox est fonctionnel.
 
 ## Exercice 2. Partitionnement LVM
 
